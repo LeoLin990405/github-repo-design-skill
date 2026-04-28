@@ -1,6 +1,6 @@
-# Archived Source Repository
+# GitHub Repo Design Skill
 
-This repository is no longer the canonical home for the GitHub repo design skill.
+This repository is public and unarchived. It is kept as a maintenance mirror and migration reference for the GitHub repo design skill.
 
 Canonical location:
 
@@ -10,8 +10,8 @@ Canonical location:
 What changed:
 
 - the skill has been vendored into `claude-code-skills`
-- the standalone source repository is kept only as a historical pointer
+- this standalone source repository remains available for historical source context and small compatibility fixes
 
-If you want to use or update this skill, work in:
+Use or update the canonical skill here:
 
 - <https://github.com/LeoLin990405/claude-code-skills/tree/main/development/github-repo-design>
